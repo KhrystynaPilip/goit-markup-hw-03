@@ -279,6 +279,7 @@ img {
   padding: 100px 156px;
 }
 .footer-logo {
+  display: inline-block;
   padding: 16px 0;
 }
 .footer-logo .logo-part {
@@ -291,5 +292,4 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-top: 16px;
 }
